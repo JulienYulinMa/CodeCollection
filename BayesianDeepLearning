@@ -1,0 +1,7 @@
+#1 Bayesian deep learning framework
+	https://github.com/thu-ml/zhusuan
+	https://github.com/pyro-ppl/pyro
+	#1.1 Followed paper
+		https://github.com/thu-ml/fpovi, backed on zhusuan.
+#2 Dissentangle style and content
+	https://github.com/CompVis/content-style-disentangled-ST
