@@ -4,4 +4,8 @@
 	#1.1 Followed paper
 		https://github.com/thu-ml/fpovi, backed on zhusuan.
 #2 Dissentangle style and content
-	https://github.com/CompVis/content-style-disentangled-ST
+	* https://github.com/CompVis/content-style-disentangled-ST
+#3 Adversarial domain mixup
+	* https://github.com/ChrisAllenMing/Mixup_for_UDA
+#4 Domain adaptive ensemble learning (code with toolbox)
+	https://github.com/KaiyangZhou/Dassl.pytorch
