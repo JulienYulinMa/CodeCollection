@@ -9,3 +9,4 @@
 	* https://github.com/ChrisAllenMing/Mixup_for_UDA
 #4 Domain adaptive ensemble learning (code with toolbox)
 	https://github.com/KaiyangZhou/Dassl.pytorch
+	A similar toolbox: https://github.com/domainadaptation/salad
